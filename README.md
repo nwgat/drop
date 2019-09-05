@@ -1,7 +1,8 @@
 # drop
 simple vertical encoder for instagram stories, facebook stories and snap
 
-* edit you files in Davinci Resolve or Shotcut, export as 1080p
+* unzip ffmpeg.zip in the same folder
+* edit you files in Davinci Resolve or Shotcut, export as high quality 1080p
 * drop your file on **rotate.drop.720p.12mbps.x264.bat**
 * if you have a modern Radeon GPU or Ryzen G series CPU
 * then you can use **rotate.drop.720p.12mbps.amf.bat** to encode using AMD AMF Framework
